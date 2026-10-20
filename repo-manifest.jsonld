@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/shiny-pokemon-scraper/commit/f9f293a3ad7f98ba2df26180ef47fc5c0bfd1c47",
       "git:hexsha": "f9f293a3ad7f98ba2df26180ef47fc5c0bfd1c47",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
