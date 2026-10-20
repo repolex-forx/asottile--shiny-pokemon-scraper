@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "shiny-pokemon-scraper",
+  "versions": [
+    {
+      "commit": "f9f293a3ad7f98ba2df26180ef47fc5c0bfd1c47",
+      "tag": "",
+      "parsed_at": "2026-10-20T21:16:38.370173+00:00"
+    }
+  ]
+}
