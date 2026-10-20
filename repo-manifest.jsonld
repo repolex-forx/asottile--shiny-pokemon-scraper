@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/asottile/shiny-pokemon-scraper",
+  "@type": "gh:Repository",
+  "gh:name": "shiny-pokemon-scraper",
+  "gh:owner": "asottile",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/asottile/shiny-pokemon-scraper/commit/f9f293a3ad7f98ba2df26180ef47fc5c0bfd1c47",
+      "git:hexsha": "f9f293a3ad7f98ba2df26180ef47fc5c0bfd1c47",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
